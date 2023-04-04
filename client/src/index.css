@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+button {
+  display: inline-flex;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 0 1rem;
+  height: 2.25rem;
+  line-height: 2.25rem;
+  font-size: 1rem;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+button:active {
+  color: #b5a4a4;
+}

@@ -1,0 +1,17 @@
+.Container {
+  padding: 0 2rem;
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+}
+
+.response-area {
+  margin-left: 10%;
+  width: 50%;
+  font-size: 1rem;
+  height: 144px;
+  border: 1px solid #566270;
+  border-radius: 10px;
+}
